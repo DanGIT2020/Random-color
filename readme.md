@@ -1,0 +1,1 @@
+click button and generate a random color from array of colors
